@@ -61,7 +61,7 @@ Ferramentas utilizadas:
 
 ## 📊 Dashboard Interativo
 
-👉 [Acesse o Dashboard no Looker Studio](COLE_AQUI_SEU_LINK_DO_LOOKER)
+👉 [Acesse o Dashboard no Looker Studio](https://lookerstudio.google.com/reporting/cf230dfa-2b71-438a-a145-338bd87090c9)
 
 ---
 
@@ -72,7 +72,6 @@ Para instalar:
 
 ```bash
 pip install -r requirements.txt
-
 
 👩‍💻 Autoria
 
